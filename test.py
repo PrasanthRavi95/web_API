@@ -1,4 +1,2 @@
-# initiate
-i = 10
-print(i)
-m = i+10
+# flask API
+print(10+3)
